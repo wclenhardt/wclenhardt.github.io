@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Academic</title>
+    <link>https://wclenhardt.github.io/project/index.xml</link>
+    <description>Recent content in Projects on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 W. Christopher Lenhardt</copyright>
+    <lastBuildDate>Mon, 27 Mar 2017 11:38:47 -0400</lastBuildDate>
+    <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>RADE</title>
+      <link>https://wclenhardt.github.io/project/RADE/</link>
+      <pubDate>Mon, 27 Mar 2017 11:38:47 -0400</pubDate>
+      
+      <guid>https://wclenhardt.github.io/project/RADE/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internet of Samples</title>
+      <link>https://wclenhardt.github.io/project/Internet_of_Samples/</link>
+      <pubDate>Mon, 27 Mar 2017 11:38:21 -0400</pubDate>
+      
+      <guid>https://wclenhardt.github.io/project/Internet_of_Samples/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stakeholder Alignment</title>
+      <link>https://wclenhardt.github.io/project/Stakeholder_Alignment/</link>
+      <pubDate>Mon, 27 Mar 2017 11:37:58 -0400</pubDate>
+      
+      <guid>https://wclenhardt.github.io/project/Stakeholder_Alignment/</guid>
+      <description>&lt;p&gt;Many of the domain science research activities that integrate cyberinfrastructure ultimately create knowledge systems. These knowledge systems facilitate the capture, management, and sharing of extant domain knowledge.&lt;/p&gt;
+
+&lt;p&gt;As such they are often referred to as socio-technical systems. Stakeholder alignment is a research approach that investigates the development of stakeholder alignment and the results from stakeholder alignment.&lt;/p&gt;
+
+&lt;p&gt;This project is a collaborative enterprise conducted by the participants in the Stakeholder Alignment Collaborative led by Joel-Cutcher-Gershenfeld at the Heller School for Social Policy and Management, Brandeis University.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Agile Data Curation</title>
+      <link>https://wclenhardt.github.io/project/Agile_Data_Curation/</link>
+      <pubDate>Mon, 27 Mar 2017 10:09:30 -0400</pubDate>
+      
+      <guid>https://wclenhardt.github.io/project/Agile_Data_Curation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
