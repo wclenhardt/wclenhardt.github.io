@@ -4,6 +4,14 @@
     
     
     <url>
+      <loc>https://wclenhardt.github.io/publication/Lenhardt_et_al_2014_DMSW_Life_Cycle/</loc>
+      <lastmod>2017-03-27T22:37:28-04:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
       <loc>https://wclenhardt.github.io/project/RADE/</loc>
       <lastmod>2017-03-27T11:38:47-04:00</lastmod>
     </url>
@@ -108,14 +116,6 @@
     
     
     <url>
-      <loc>https://wclenhardt.github.io/publication/person-re-identification/</loc>
-      <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
       <loc>https://wclenhardt.github.io/post/migrate-from-jekyll/</loc>
       <lastmod>2014-03-10T00:00:00+00:00</lastmod>
     </url>
@@ -124,25 +124,8 @@
     
     
     <url>
-      <loc>https://wclenhardt.github.io/publication/clothing-search/</loc>
-      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-      <loc>https://wclenhardt.github.io/publication_types/1/</loc>
-      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-      <loc>https://wclenhardt.github.io/publication_types/2/</loc>
-      <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+      <loc>https://wclenhardt.github.io/publication_types/0/</loc>
+      <lastmod>2017-03-27T22:37:28-04:00</lastmod>
       <priority>0</priority>
     </url>
     
